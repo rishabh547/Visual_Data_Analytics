@@ -1,2 +1,3 @@
 # Visual Data Analytics using Tableau
-Here we use Tableau tool to Build Interactive Dashboards and perform data visualization using a given set of Datasets.  
+* ### Conceptualized Real-World Problem-Statements based on...
+* ### Pre-Admission, Candidate-Info  and Covid-19 Doses' Status Datasets of a University and build Dynamic Dashboards for the the analysis of the same using Tableau
